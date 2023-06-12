@@ -1,6 +1,6 @@
 
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
-body{ font-family: 'Noto Sans KR', sans-serif; color:#222;}
+body{ font-family: 'Noto Sans KR', sans-serif; color:#222; overflow-x: hidden;}
 .wrap{width: 100%;}
 header{ width: 100%; position: fixed; z-index: 20; border-bottom: 1px solid #c7c5c5;}
 .header_inner{ width: 1500px; margin: 0 auto;  display: flex; justify-content: space-around; align-items: center; height: 100%;}
